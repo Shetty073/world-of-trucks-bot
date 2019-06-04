@@ -1,0 +1,5 @@
+{
+  "?info `user_id`": "Get the world of trucks statistics for the particular `user_id`",
+  "?plates `user_id`": "Get the European and American license plates for the particular `user_id`",
+  "__NOTE:__": "**Here `user_id` is a sequence of numbers which you can get from the url of your World of Trucks profile page**"
+}

@@ -20,7 +20,11 @@ async def on_ready():
 
 
 # Cogs list
-extensions = ["cogs.info"]
+extensions = [
+    "cogs.info",
+    "cogs.plates",
+    "cogs.ask"
+]
 
 # Load all cogs
 if __name__ == "__main__":
